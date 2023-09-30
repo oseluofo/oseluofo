@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oseluofo
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning  data science and analytics (SQL || PYTHON FOR NOW)
+- 👀 I’m interested in data science and analytics 
+- 🌱 I’m currently learning  data science and analytics (SQL || R || PYTHON FOR NOW)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me esekhaigbeoseluofo@gmail.com
 
